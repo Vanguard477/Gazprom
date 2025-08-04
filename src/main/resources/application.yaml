@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: gazprom
+server:
+  port: 8080
+vk:
+  api:
+    url: https://api.vk.com/method
